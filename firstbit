@@ -1,0 +1,63 @@
+Your eyes are heavy. They can't open. Your head hurts. It's cold. It's dark,..
+
+... 
+
+...
+
+A fire crackles. You slowly open your eyes. Vision is blurred. There's a faint glow of the fire illuminating the room. You try to get up. Something's not right. It's not your bed. It's not your room. 
+
+<get up>
+You get off the bed. It's a big bed.
+
+<look around> <without get up>
+You look around. It's a roof. Nothing special.
+
+<look around> <got up>
+It's dark. Room looks old. No windows. Where are you?
+
+Need to look some more.
+
+<look around x2>
+There's a door. It's a big door.
+
+<open door>
+It's locked. Damn. 
+
+Look some more.
+
+<look around x3>
+There's a desk, a fireplace, a door and a bed.
+
+<go fireplace>
+the room is cold 
+the fire is dying
+<stoke the fire>
+the fire is burning
+the room is mild
+<stoke the fire>
+the fire is roaring
+the room is warm
+<put out>
+Bad idea 
+
+<go bed>
+It's a big bed.
+<sleep>
+Stop procrastinating.
+
+<go desk>
+There's a box on the desk.
+
+<look at box>
+
+PUZZLE 1
+
+<puzzle solution>
+
+The box opened! There's an old rusted key. 
+ 
+<open door *with key*>
+You slid in the key. It fit in perfectly! Click! You slowly open the door. It's heavy... 
+
+NEXT PART
+
