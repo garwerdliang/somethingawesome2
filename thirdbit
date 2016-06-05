@@ -1,1 +1,125 @@
+Player 2
 
+<inventory>
+key
+
+A long hallway stretches out in front of you. The lighting is poor. You can barely see the end. There are three doors
+to you left and right.
+
+<go down hallway>
+You shuffle past the doors. 
+...
+You reach the end. Suprise! ....another door. And a bust.
+
+<Open door>
+It won't budge.
+
+<try other doors>
+They won't budge.
+
+<try all doors>
+They won't budge. 
+
+<hit door>
+The door mocks you.
+<hit door x2>
+The door silently judges you
+<hit door x3>
+The door pities your futile endeavour
+
+<examine statue>
+It's a bust of ... You don't know.
+It's a pretty poor excuse of a bust, almost looks like a child made it.
+There's plaque on it
+
+<kiss bust>
+why
+
+PUZZLE 2
+
+[Enable chat function between two players] - first message is previous command 
+What's happening?
+Who's talking to you?
+Where are they coming from?
+
+<look down>
+You look down. That's a fine looking carpet your're steppping on.
+
+<roll up carpet>
+You begin rolling up the carpet
+...
+...
+It's a long carpet
+...
+...
+That's a lot of carpet
+...
+...
+Is that a hatch?
+...
+...
+You finish rolling up the carpet.
+
+<examine hatch>
+It's a hatch alright.
+
+<open hatch>
+You open the hatch.
+
+NEXT PART
+
+Player 2
+<inventory>
+key
+
+A long hallway stretches out in front of you. The lighting is poor. You can barely see the end. There are three doors
+to you left and right.
+
+<go down hallway>
+You shuffle past the doors. 
+...
+You reach the end. Suprise! ....another door. And a bust.
+
+<Open door>
+It won't budge.
+
+<try other doors>
+They won't budge.
+
+<try all doors>
+They won't budge. 
+
+<hit door>
+The door mocks you.
+<hit door x2>
+The door silently judges you
+<hit door x3>
+The door pities your futile endeavour
+
+<examine statue>
+It's a bust of ... You don't know.
+It's a pretty poor excuse of a bust, almost looks like a child made it.
+There's plaque on it
+
+<kiss bust>
+why
+
+PUZZLE 2
+
+[Enable chat function between two players] - first message is previous command 
+What's happening?
+Who's talking to you?
+Where are they coming from?
+
+<look up>
+You look up. There's an opening to the attic
+
+
+<examine opening>
+It's a hatch alright.
+
+<open hatch>
+You open the hatch.
+You climb up
+
+NEXT PART
