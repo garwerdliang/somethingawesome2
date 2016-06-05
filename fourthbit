@@ -1,1 +1,46 @@
+player 1
+<inventory>
+key
+wrench
+rubber duck
+floppy disk
 
+You enter the main foyer.
+it's bright.
+You can actually see!
+
+<look around>
+rich rich rich...
+Everything is so extravegent.
+The chandelier, the fire place, the carpeting, the sofa, the...
+You get the point.
+
+<examine chandelier>
+and what a chandelier it is.
+
+<examine fire place>
+the fire is dead.
+<light fire>
+the fire is flcikering
+<stoke fire>
+The fire is burning.
+<stoke fire>
+The fire is roaring.
+
+<throw rubber duck in fire>
+why
+
+<throw wrench in fire>
+you may need that for later
+
+<jump in the fire>
+GAME OVER
+
+<sit in sofa>
+You needed this
+
+<sit in sofa x2>
+things need to be done
+
+<leave the room>
+You feel like there is something important here
